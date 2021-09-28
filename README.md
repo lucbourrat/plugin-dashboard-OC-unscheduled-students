@@ -15,4 +15,4 @@ INSTALLATION :
 
 UTILISATION :
 1 - MAJ la liste des étudiants à cette adresse : "https://openclassrooms.com/fr/mentorship/dashboard/students" (F5 à cette URL pour activier le plugin)
-2 - Demander les étudiants non reprogrammés dans la semaine à cette adresse : "https://openclassrooms.com/fr/mentorship/dashboard/calendar/edit" (F5 à cette URL pour activier le plugin)
+2 - Demander les étudiants non reprogrammés dans la semaine à cette adresse : "https://openclassrooms.com/fr/mentorship/dashboard/calendar/edit" (F5 à cette URL pour activier le plugin) 
